@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { styled } from '@mui/material/styles';
 import { Box, Typography, Grid } from '@mui/material';
-import videoIcon from './images/video-camera copy.png';
+
 import audioIcon from './images/volume copy.png';
 
 const OuterGradientWrapper = styled('div')({

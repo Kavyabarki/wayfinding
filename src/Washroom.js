@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { styled } from '@mui/material/styles';
-import { Box, Typography, Dialog, DialogTitle, DialogContent, Radio, RadioGroup, FormControlLabel } from '@mui/material';
+import {  Typography, Dialog, DialogTitle, DialogContent, Radio, RadioGroup, FormControlLabel } from '@mui/material';
 import washroom from './images/restroom copy.png';
 
 const OuterGradientWrapper = styled('div')({

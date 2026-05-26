@@ -2,7 +2,7 @@ import React from 'react';
 import './Navbar.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
-import HomeIcon from '@mui/icons-material/Home'; 
+
 
 function Navbar() {
   return (

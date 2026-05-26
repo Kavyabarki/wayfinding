@@ -106,11 +106,11 @@ const Home = () => {
                                             border: 'none',
                                             backgroundColor: '#D3D3D3',
                                             color: '#A9A9A9',
-                                            cursor: 'not-allowed',
+                                            cursor: 'not-allowed',      
                                             display: 'flex',
                                             flexDirection: 'column',
                                             alignItems: 'center',
-                                            cursor: 'pointer'
+                                            // cursor: 'pointer'
                                         }}
                                         disabled
                                     >
